@@ -1,0 +1,1 @@
+Variable 		Monthly 		Quarter		 Yearly 	 Aggreg		LowerBound 	 upperBound 	 tMin 	 tMax

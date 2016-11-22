@@ -1,0 +1,3 @@
+Variable 	 PV 	 Number 	LowerBound 	 upperBound 	 tMin 	 tMax	Plot_Name_and_Y_axis
+mean_wage_r_and_d	1	2	mts_mean_wage_r_and_d_payment_account
+payment_account	0	0	

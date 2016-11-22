@@ -1,0 +1,5 @@
+Variable	 VariableName	 Agent	 Method	 Filter1	 Value	 OP	 Filter2	 Value	 OP	 Weighting	 PV
+id	id	Firm	mean	No	No	=	No	No	=	No	1	
+mean_wage_r_and_d	mean_wage_r_and_d	Firm	mean	No	No	=	No	No	=	No	1	
+payment_account	payment_account	Firm	mean	No	No	=	No	No	=	No	1	
+partition_id	partition_id	Firm	mean	No	No	=	No	No	=	No	1	

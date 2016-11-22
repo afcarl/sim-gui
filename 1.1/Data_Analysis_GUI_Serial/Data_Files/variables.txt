@@ -1,0 +1,1 @@
+Variable	 VariableName	 Agent	 Method	 Filter1	 Value	 OP	 Filter2	 Value	 OP	 Weighting	 PV

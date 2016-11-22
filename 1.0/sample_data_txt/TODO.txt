@@ -1,0 +1,16 @@
++ Adding "LowerBound 	 upperBound 	 tMin 	 tMax"
+
+1. From GUI to data.txt
+bandpass_filter_data.txt
+growth_rate_data.txt
+multiple_timeseries_data.txt
+ratio_data.txt
+
+2. In R scripts
+bandpass_filter_data.txt
+growth_rate_data.txt
+multiple_timeseries_data.txt
+ratio_data.txt
+
+
+

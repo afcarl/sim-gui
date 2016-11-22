@@ -1,0 +1,51 @@
+Importance
+1: high
+5: low
+
+R scripts
+==========
+r_serial.sh -> move this above for-loop
+#Logging
+mkdir -p 'log'
+rm ./log/*
+
+28.3.2012
+For (Single, Batch, Par)_*_Plot.r: time_series, growth, ratio, bandpass_filter
+1. Datafile name top --> corrected
+2. pdf plot: index data_file[j,N] --> adjusted N
+3. In legend:
+legend(xpd=TRUE,(0.5*length(A[,1]))
+-->legend(xpd=TRUE,(0.5*(tmax - tmin))
+
+
+Errors:
+=======
+2 Build experiment: if file is write-only in exp folder exception is thrown and setting of flag="1" in Config.r not written.
+
+
+Settings
+========
+Parameters:
+3 Setting 1 value gives R error in Configure.r: parameter_values<-c("0.1)   (done)
+
+
+Normal Timeseries
+5 Upper lim, lower lim: order of titles is reversed
+1 "Lower limit" (right): input field not updated after enter + input field of "Upper Limit" updated (Left)
+1 upper limit: tickmark set, unset, apply changes does not work
+2 tickmarks: after apply, exit tickmarks are all unset
+2 Settings -> Defaults  (limits) -> remove Lower and Upper
+
+(done)
+
+Multiple Timeries
+Settings -> Defaults : Ok, Discard too high (could not find out what is meant here)
+
+Output
+=======
+Batch only (simple)
+5 Output folder: batch_ -> batch_simple
+2 Multiple Timeseries not created
+
+
+

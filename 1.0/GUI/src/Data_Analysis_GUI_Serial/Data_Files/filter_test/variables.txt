@@ -1,0 +1,7 @@
+Variable			New Name			Agent			Method			Filter	Val	Op	Filter2	Val	Op2	Weight		Real	PV	
+
+active				Firm_active_A			Firm			sum			output	60	<	No	No	No	No		No	1
+
+active				Firm_active_B			Firm			sum			output	50	<	No	No	No	No		No	1
+active				Firm_active_C			Firm			sum			output	50	<	active	1	=	No		No	1
+

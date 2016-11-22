@@ -1,0 +1,6 @@
+Variable			l_lim	u_lim	tmin	tmax
+Firm_active_A			No	No	No	No
+
+Firm_active_B			No	No	No	No
+Firm_active_C			No	No	No	No
+

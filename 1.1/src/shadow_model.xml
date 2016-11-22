@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmodel><agents><xagent><name>Firm</name><memory><variable><name>id</name><type>int</type></variable><variable><name>planned_output</name><type>double</type></variable><variable><name>output</name><type>double</type></variable></memory></xagent></agents></xmodel>

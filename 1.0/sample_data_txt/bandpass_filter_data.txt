@@ -1,0 +1,4 @@
+Variable 	 PV 	 Cor 	 Log 	 Aggreg 	 Low 	 high 	 NFix 	 Drift 	 Number 	LowerBound 	 upperBound 	 tMin 	 tMax	Plot_Name_and_Y_axis
+payment_account	1	Yes	No	sum	6	32	4	FALSE	1	
+mean_wage_r_and_d	1	Yes	No	sum	6	32	4	FALSE	2	mts_mean_wage_r_and_d_partition_id
+partition_id	0	Yes	No	sum	6	32	4	FALSE	0	
