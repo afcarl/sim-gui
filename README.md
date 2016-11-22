@@ -1,17 +1,17 @@
-Readme
-
-This is SIM-GUI, a GUI for generating FLAME simulations and post-generation data processing.
-The version is a refactoring of the original java code of SIM-GUI.
+This is Sim-gui, a GUI for generating FLAME simulations and post-simulation data processing.
 
 VERSION HISTORY:
 
-SIM-GUI v0.9a 
+Sim-gui 1.0
 (c) 2014 Philipp Harting
 
-SIM-GUI v1.0
-(c) 2014 Philipp Harting, Bohgdan Pukalskyi
+Features:
+- This version is the original java code of Sim-gui.
+
+Sim-gui 1.1
+(c) 2014 Philipp Harting, 2015 Bohgdan Pukalskyi
 
 Features:
-- This version is template based. In SIM-GUI v0.9a the java code and code to generate the bash scripts were mixed inside the java code.
-In this version all bash scripts are templates, cleanly separating the two code bases. This allows to adapt the bash script templates without having to change any of the java code.
+- Version 1.1 is a refactoring of the original java code of Sim-gui.
+- This version is template based. In Sim-gui 1.0 the java code and the code to generate the bash scripts were literally verbatim inside the java code. In this version all bash scripts are templates, cleanly separating the two code bases, which allows to adapt the template files without a need to change the java code of the GUI.
 
